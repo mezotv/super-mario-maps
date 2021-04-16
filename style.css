@@ -23,6 +23,7 @@ body{
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    background-color: #48d41c;
 }
 
 h1,h4{
